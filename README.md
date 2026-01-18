@@ -1,6 +1,6 @@
 <h1>Dualing Drivers</h1>
 
-<img src="https://i.imgur.com/JgcHjB5.png" height="80%" width="80%" alt="Dualing Drivers Demo"/>
+<img src="https://i.imgur.com/JgcHjB5.png" height="80%" width="80%" alt="Dualing Drivers Image"/>
 
 ### [YouTube Demonstration](https://youtu.be/-6-AxN3fKnk)
 
