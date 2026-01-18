@@ -13,6 +13,7 @@
 - <b>C#</b> 
 - <b>Visual Studio</b>
 - <b>Monogame</b>
+- <b>Trello</b>
 
 <!--
  ```diff
